@@ -2,3 +2,7 @@ All Git Command
 
 git switch -C Bipin-Branch  // branch created and switch to creation branch
 git branch   // to check all created branch
+
+git add .
+git commit -m "Changes in Git Folder"
+git push -u origin Bipin-Branch  
