@@ -1,2 +1,4 @@
 All Git Command
 
+git switch -C Bipin-Branch  // branch created and switch to creation branch
+git branch   // to check all created branch
