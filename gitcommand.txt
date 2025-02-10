@@ -15,6 +15,6 @@ then you will see all branch that's has been created
 git Merge Bipin-Branch  // git Merge Bipin-Branch to Merge
 git push -u origin main // now push all code to main branch
 
-git pull // (fetch + merge)  
+git pull // (fetch + merge) 
 
-
+// first learn git 
